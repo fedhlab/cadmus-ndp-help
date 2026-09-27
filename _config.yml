@@ -1,15 +1,38 @@
+# Site settings
 title: "Cadmus NDP Help"
 description: "Help documentation for Cadmus Naples Dante Project"
+url: "https://fedhlab.github.io/cadmus-ndp-help"
+baseurl: "/cadmus-ndp-help"
 
+# Theme
 remote_theme: just-the-docs/just-the-docs
 
-url: "https://fedhlab.github.io/cadmus-ndp-help"
+# Just the Docs configuration
+heading_anchors: true
+back_to_top: true
+back_to_top_text: "Back to top"
+footer_content: "2026 FedhLab 2026."
+last_edit_timestamp: false
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+# Color scheme
+color_scheme: light
 
+# Navigation and sorting
+nav_sort: case_insensitive
+
+# Features
+enable_copy_code_button: true
+
+# Plugins
+plugins:
+  - jekyll-default-layout
+  - jekyll-seo-tag
+  - jekyll-github-metadata
+
+# Mermaid diagram support
 mermaid:
   version: "11.4.1"
 
-enable_copy_code_button: true
-nav_sort: case_insensitive
+# Aux links
+aux_links:
+  "GitHub Repository": https://github.com/fedhlab/cadmus-ndp-help
