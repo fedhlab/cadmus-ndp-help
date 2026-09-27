@@ -17,3 +17,7 @@ User documentation and reference manual for the Naples Dante Project implementat
 - 💡 tip
 - ▶️ procedural step
 - 👉 important information
+  
+## Related resources
+
+Research outputs, publications, datasets, and other materials related to the Naples Dante Project are available through the [NDP community on Zenodo](https://zenodo.org/communities/ndp/).
