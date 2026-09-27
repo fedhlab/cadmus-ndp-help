@@ -17,6 +17,7 @@ User documentation and reference manual for the Naples Dante Project implementat
 - 💡 tip
 - ▶️ procedural step
 - 👉 important information
+- 🎯 purpose
 - 📚 [thesaurus](https://vedph.github.io/cadmus-doc/linking/thesauri.html) ID
   
 ## Related resources
