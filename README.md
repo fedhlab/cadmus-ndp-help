@@ -4,9 +4,9 @@ User documentation and reference manual for the Naples Dante Project implementat
 
 ## Documentation structure
 
-- individual part editors are documented in files named after their TYPE ID;
-- reusable UI components ("bricks") are documented under `bricks/`;
-- documentation images are stored under `img/`;
+- individual part editors are documented in files named after their TYPE ID (see <https://vedph.github.io/cadmus-doc/models/shared.html>).
+- reusable UI components ("bricks") are documented under `bricks/`.
+- documentation images are stored under `img/` in its parent folder (`bricks` images go into `bricks/img`).
 - links to images and internal documentation should use relative paths.
 
 ## Conventions
