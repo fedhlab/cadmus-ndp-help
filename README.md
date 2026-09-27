@@ -1,6 +1,6 @@
 # Cadmus NDP Help
 
-User documentation and reference manual for the Naples Dante Project implementation of Cadmus.
+User documentation and reference manual for the Naples Dante Project implementation of Cadmus. 🔗 URL: <https://fedhlab.github.io/cadmus-ndp-help/>.
 
 ## Documentation structure
 
