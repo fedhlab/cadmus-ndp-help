@@ -1,8 +1,9 @@
 title: "Cadmus NDP Help"
 description: "Help documentation for Cadmus Naples Dante Project"
-theme: just-the-docs
 
-url: "https://fedhlab.com/cadmus-ndp-help"
+remote_theme: just-the-docs/just-the-docs
+
+url: "https://fedhlab.github.io/cadmus-ndp-help"
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
@@ -11,5 +12,4 @@ mermaid:
   version: "11.4.1"
 
 enable_copy_code_button: true
-
 nav_sort: case_insensitive
