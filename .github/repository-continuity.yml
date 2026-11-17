@@ -1,0 +1,19 @@
+schema_version: 1
+project: cadmus-ndp
+repository_role: public-user-documentation
+current_canonical: fedhlab/cadmus-ndp-help
+continuity:
+  status: planned-not-authorized
+  candidate_owner: RinoFerrante
+  candidate_name: cadmus-ndp-help
+  required_visibility: public
+  preserve_full_history: true
+  preserve_issues_and_pull_requests: true
+  do_not_recreate_old_path_after_transfer: true
+dependencies:
+  github_pages: true
+  current_site: https://fedhlab.github.io/cadmus-ndp-help/
+authority:
+  transfer_decision: RinoFerrante
+  prepared_by: Iris
+  independent_verification: Teo
